@@ -1,4 +1,4 @@
-package org.example;
+package org.example.FormDate;
 
 public class FormDate {
     public int day;

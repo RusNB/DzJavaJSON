@@ -1,4 +1,6 @@
-import org.example.FormDate;
+
+import org.example.FormDate.FormDate;
+import org.example.FormDate.Post;
 
 public class Main {
     public static void main(String[] args) {

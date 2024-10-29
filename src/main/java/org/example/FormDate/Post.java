@@ -1,4 +1,4 @@
-import org.example.FormDate;
+package org.example.FormDate;
 
 public class Post {
     public String name;
